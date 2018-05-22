@@ -2,6 +2,8 @@ package com.test;
 
 public class Test1 {
 	
-	public test() {}
+	public test() {
+		System.out.println("Test");
+	}
 
 }
